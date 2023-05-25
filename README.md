@@ -1,6 +1,6 @@
-# Full-Stack-Open
+# Full-Stack-Open-2023
 
-## [Curso Full Stack Open 2023](https://fullstackopen.com/es/)
+## [Curso Full Stack Open](https://fullstackopen.com/es/)
 
 ## General 
  
